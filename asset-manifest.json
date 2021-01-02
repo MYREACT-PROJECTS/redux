@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/redux/static/css/main.aee38e1c.chunk.css",
+    "main.js": "/redux/static/js/main.d22be5f3.chunk.js",
+    "main.js.map": "/redux/static/js/main.d22be5f3.chunk.js.map",
+    "runtime~main.js": "/redux/static/js/runtime~main.e9904234.js",
+    "runtime~main.js.map": "/redux/static/js/runtime~main.e9904234.js.map",
+    "static/css/2.4195bf35.chunk.css": "/redux/static/css/2.4195bf35.chunk.css",
+    "static/js/2.b8188944.chunk.js": "/redux/static/js/2.b8188944.chunk.js",
+    "static/js/2.b8188944.chunk.js.map": "/redux/static/js/2.b8188944.chunk.js.map",
+    "index.html": "/redux/index.html",
+    "precache-manifest.d328e06a223829fb2f33eec6f714cb61.js": "/redux/precache-manifest.d328e06a223829fb2f33eec6f714cb61.js",
+    "service-worker.js": "/redux/service-worker.js",
+    "static/css/2.4195bf35.chunk.css.map": "/redux/static/css/2.4195bf35.chunk.css.map",
+    "static/css/main.aee38e1c.chunk.css.map": "/redux/static/css/main.aee38e1c.chunk.css.map",
+    "static/media/reminder.png": "/redux/static/media/reminder.2c51f81e.png"
+  }
+}
