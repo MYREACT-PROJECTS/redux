@@ -8,13 +8,14 @@ import  reminders from './reducers'
 
 import 'bootstrap/dist/css/bootstrap.css';
 import './index.css'
+import Home from './components/Home';
 
 
 const store = createStore(reminders)
 
 ReactDOM.render(
     <Provider store={store}>
-        <App />
+        <Home/>
     </Provider>,
     document.getElementById('root')
 )

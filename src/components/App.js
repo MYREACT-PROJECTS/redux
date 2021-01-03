@@ -5,6 +5,7 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import logo from './reminder.png'
 import { add_Reminder , remove_Reminder , clear_Reminder } from '../actions'
+import Header from './Header';
 class App extends Component {
     state = {
         text: '',
@@ -34,6 +35,8 @@ class App extends Component {
 
     render() {
         return (
+            <div>
+            
             <div className="App">
                 <img src={logo} />
                 <div className="reminder-title">
@@ -73,6 +76,7 @@ class App extends Component {
                 >
                     Clear Reminders
                 </button>
+            </div>
             </div>
         )
     }
