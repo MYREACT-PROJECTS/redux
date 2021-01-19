@@ -2,6 +2,8 @@ import React,{useContext} from 'react'
 import {AuthProvider, AuthContext} from './AuthContext'
 import Login from './Login';
 import {Link} from 'react-router-dom';
+import { useHistory } from "react-router-dom";
+
 
 
 export default function Header() {
@@ -11,6 +13,7 @@ export default function Header() {
         authcontext.setAuth({});
         localStorage.removeItem('token');
         localStorage.removeItem('email');
+        
         
 
     }
